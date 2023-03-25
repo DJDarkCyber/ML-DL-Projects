@@ -7,7 +7,7 @@ A repository that is the collection of Machine Learning and Deep Learning projec
 
 ### 1. [Crop Production In India](Crop-Production-In-India/Crop-Production-In-India.ipynb)
 
-<img src="https://i.postimg.cc/Yq50dDvX/Optimize-Campaign-blog-post-506x253.jpg">
+<img src="https://i0.wp.com/decisivefarming.com/wp-content/uploads/2017/07/Optimize-Campaign-blog-post-506x253.jpg?resize=1080%2C675&ssl=1">
 
 Image Source : https://decisivefarming.com/increase-crop-production/
 
@@ -17,9 +17,9 @@ Image Source : https://decisivefarming.com/increase-crop-production/
 
 ### 2. [Nifty 50 Stock Market](Nifty-50-Stock-Market.ipynb)
 
-<img src="https://i.postimg.cc/DZCfKBBb/stockmarkets4-1679370235.jpg">
+<img src="https://www.nifty50stocks.com/wp-content/uploads/2022/10/Bank-Nifty-Prediction-for-Monday.jpg">
 
-Image Source : https://www.goodreturns.in/news/stock-market-closing-sensex-rises-446-pts-nifty-tops-17-100-ril-shares-gains-1278707.html
+Image Source : https://www.nifty50stocks.com/nifty-17152-sensex-up-140-ahead-fed-rate-decision/
 
 **Description**
 
